@@ -7,7 +7,6 @@
 - 开放平台官方邮箱：openplatform-feedback@bilibili.com
 - 新建Issuse：https://github.com/bilibili-openplatform/demo/issues
 
-[bilibili 开放平台文档](https://openhome.bilibili.com/doc/4/aa909d41-01da-e47e-e64c-f32bc76b8a42)
 
 ### Java
 [Java示例代码](java/Demo.java)
